@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Lead developer / Devops"
-    company: "Xtramile"
-    company_url: "https://xtramile.io/"
+  - title: Lead developer & Devops
+    company: Xtramile
+    company_url: https://xtramile.io/
     date_start: "2020-03-16"
     date_end: "2021-07-23"
-    location: "Metz - France"
+    location: Metz
     description: |2-
       **Missions**:
       * Development of a CI/CD pipeline using **bitbucket-pipelines**,**docker**,**azure** and **kubernetes**.
@@ -48,12 +48,12 @@ experience:
       * Nginx
       * Redis / PostgreSQL / Elasticsearch
 
-  - title: "Backend developer"
-    company: "Xtramile"
-    company_url: "https://xtramile.io/"
-    date_start: "2019-04-01"
-    date_end: "2020-03-15"
-    location: "Metz - France"
+  - title: Backend developer
+    company: Xtramile
+    company_url: https://xtramile.io/
+    date_start: 2019-04-01
+    date_end: 2020-03-15
+    location: Metz
     description: |2-
       **Missions**:
       * Creation, maintenance and improvement of microservices (docker, docker-compose, k8s).
@@ -69,12 +69,12 @@ experience:
       * Docker / Kubernetes
       * Redis / PostgreSQL / Elasticsearch
 
-  - title: "Part-time fullstack-developer"
-    company: "Xtramile"
-    company_url: "https://xtramile.io/"
+  - title: Fullstack-developer
+    company: Xtramile
+    company_url: https://xtramile.io/
     date_start: "2018-11-17"
     date_end: "2019-03-31"
-    location: "Metz - France"
+    location: Metz
     description: |2-
       **Missions**:
       * Development of **Python** workers and scripts.
@@ -87,20 +87,19 @@ experience:
       * Git / Bitbucket
       * Elasticsearch
 
-  - title: "Summer job at IT Service"
-    company: "European Court of Justice"
-    company_url: "https://xtramile.io/"
+  - title: Summer job at IT Service
+    company: European Court of Justice
+    company_url: https://curia.europa.eu/jcms/jcms/j_6/fr/
     date_start: "2018-07-01"
     date_end: "2018-07-31"
-    location: "Luxembourg"
-    description: """ """
+    location: Luxembourg
 
-  - title: "Intern"
-    company: "Stibidik"
-    company_url: "https://www.stibidik.fr/"
+  - title: Intern
+    company: Stibidik
+    company_url: https://www.stibidik.fr/
     date_start: "2017-04-04"
     date_end: "2017-08-31"
-    location: "Nancy - France"
+    location: Nancy
     description: |2-
       **Mission**:
       Development of a marketplace.
@@ -112,14 +111,13 @@ experience:
       * Git
       * HTML / CSS / Javascript
 
-
-  - title: "Intern"
-    company: "Sailendra"
-    company_url: "https://www.sailendra.fr/"
+  - title: Intern
+    company: Sailendra
+    company_url: https://www.sailendra.fr/
     date_start: "2015-07-13"
     date_end: "2015-12-24"
-    location: "Nancy - France"
-    description: """  """
+    location: Nancy
+    description: ""
 
 design:
   columns: '2'
