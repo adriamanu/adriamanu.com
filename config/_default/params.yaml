@@ -20,15 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: emmanuel.adrian@epitech.eu
 contact_links:
+  - icon: envelope
+    icon_pack: fab
+    name: Email
+    link: "mailto:emmanuel.adrian@epitech.eu"
   - icon: github
     icon_pack: fab
-    name: Github profile
+    name: Github
     link: 'https://github.com/adriamanu'
   - icon: discord
     icon_pack: fab
-    name: Add me on Discord
+    name: Discord
     link: 'https://discordapp.com/channels/@1399'
 
 # Site header
