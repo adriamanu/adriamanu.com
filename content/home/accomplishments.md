@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2021-12-15"
   description: "certificate id LF-qdbae6osm5"
-  organization: CNCF
+  organization: cncf
   organization_url: https://www.cncf.io
   title: Certified Kubernetes Administrator - CKA
   url: ""
